@@ -4,8 +4,8 @@ Approach: I used re.findall(), which will return a list of matches instead of on
           that I used is r'[A-Z]+[a-z]*' because every name will start with an uppcase letter and followed by mulitple lowercase letters. 
           The plus sign (+) is used to match one or more occurances. In other words, any combination of one uppercase letter with one or more 
           lowercase letters will be returned by this regex. 
-
-'''python
+          
+```python
 import re
 def names():
     simple_string = """Amy is 5 years old, and her sister Mary is 2 years old. 
@@ -14,4 +14,4 @@ def names():
     # YOUR CODE HERE
     return re.findall(r'[A-Z]+[a-z]+', simple_string)
     raise NotImplementedError()
-'''
+```
