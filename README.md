@@ -1,4 +1,4 @@
-# CourseraDataScienceinPythonNotes
+# Coursera Introduction to Data Science in Python Notes
 
 While being a Python beginner, I will be sharing my experience/notes of taking a Coursera Python class, Data Science in Python offered by University of Michigan. Since I am currently still taking this course, I will be uploading my solution to the assignments once I complete them. 
 
